@@ -12,6 +12,12 @@ let imagemInimigoVoador;
 let imagemTelaInicial;
 let fonteTelaInicial;
 
+let imagemVida;
+
+let vida;
+
+let fita;
+
 let cenario;
 let pontuacao;
 
